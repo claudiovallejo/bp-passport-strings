@@ -185,6 +185,6 @@
   "medicine.set-reminder-for": "Set reminder for",
   "medicine.delete-medicine": "Delete medicine",
   "medicine.delete-confirm": "This will permanently delete the medicine. Are you sure?",
-  "medicine.enable-notifications": "Enable notifications",
-  "medicine.update-your-settings": "Update your batter optimization settings to get medicine reminders"
+  "medicine.enable-notifications": "Allow notifications",
+  "medicine.update-your-settings": "Allow notifications to receive medicine reminders"
 }
